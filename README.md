@@ -6,4 +6,4 @@
 
 ### Hi there 👋
 
-[![snacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=snacky)](https://github.com/anuraghazra/github-readme-stats)
+[![snacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=cliche90)](https://github.com/anuraghazra/github-readme-stats)
